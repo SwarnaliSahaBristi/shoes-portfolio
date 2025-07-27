@@ -184,3 +184,22 @@ nav {
 .shoe-card .btn-primary {
   background: black;
 }
+.contact-us {
+  background: rgb(255, 242, 241);
+  text-align: center;
+  padding: 35px 20px;
+  margin: 35px auto;
+  border-radius: 15px;
+}
+.contact-us input {
+  border: none;
+  padding: 15px 152px;
+}
+.contact-input-button-parent {
+  display: flex;
+  justify-content: center;
+}
+.contact-us .btn-primary {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
